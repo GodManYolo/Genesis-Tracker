@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"a65448f22e173bb7","type":"group","x":-460,"y":-300,"width":600,"height":300,"color":"3","label":"Downtimes Preludio"},
+		{"id":"b9742638837a70a7","type":"group","x":-160,"y":-600,"width":400,"height":223,"color":"5","label":"Familias"},
+		{"id":"2dc610beef3ff6b9","type":"group","x":-460,"y":-660,"width":279,"height":283,"color":"5","label":"Los 4 del Venidero"},
+		{"id":"3b867046501dab60","type":"text","text":"[[Downtime 5|14 Después de la mentira]]","x":-440,"y":-180,"width":280,"height":50},
+		{"id":"5e4325da218830e0","type":"text","text":"[[Downtime 7|16 Después de la mentira]]","x":-440,"y":-130,"width":280,"height":50},
+		{"id":"e00270a5921eb5af","type":"text","text":"[[Downtime 6|15 Después de la mentira]]","x":-160,"y":-180,"width":280,"height":50},
+		{"id":"b520fbb91702b496","type":"text","text":"[[Los Pioneros]]","x":-140,"y":-580,"width":180,"height":60},
+		{"id":"19c856c64876cca6","type":"text","text":"[[Atila]]","x":-441,"y":-637,"width":240,"height":50},
+		{"id":"f832709f72d451d2","type":"text","text":"[[Fabio]]","x":-441,"y":-577,"width":240,"height":50},
+		{"id":"7898adf31711fc34","type":"text","text":"[[Ferrán]]","x":-441,"y":-517,"width":240,"height":50},
+		{"id":"1b6a748b2ad1af12","type":"text","text":"[[Los Veterenos]]","x":40,"y":-580,"width":180,"height":60},
+		{"id":"e656ba87504daea8","type":"text","text":"[[Downtime 3|12 Después de la mentira]]","x":-440,"y":-230,"width":280,"height":50},
+		{"id":"7ccfd08a6065d6fd","type":"text","text":"[[Downtime 4|13 Depués de la mentira]]\n","x":-160,"y":-230,"width":280,"height":50},
+		{"id":"1fae0b6af3408128","type":"text","text":"[[Downtime 8|17 Después de la mentira]]","x":-160,"y":-130,"width":280,"height":50},
+		{"id":"5e6e8dfdfd729e87","type":"text","text":"[[Downtime 10|19 Después de la mentira]]","x":-160,"y":-80,"width":280,"height":50},
+		{"id":"d6c69269330181eb","type":"text","text":"[[Downtime 9|18 Después de la mentira]]","x":-440,"y":-80,"width":280,"height":50},
+		{"id":"f55059ae97563063","type":"text","text":"[[Downtime text]]","x":-460,"y":20,"width":260,"height":60},
+		{"id":"cfc87626f6e95cab","type":"text","text":"[[IdeasDowntime]]","x":-460,"y":80,"width":260,"height":58},
+		{"id":"b9e9a6eb4c66f8d1","type":"text","text":"[[Los Mercaderes]]","x":-140,"y":-460,"width":180,"height":60},
+		{"id":"163804f57ffc9fd7","type":"text","text":"[[Los Artesanos]]","x":-140,"y":-520,"width":180,"height":60},
+		{"id":"cc324dd54e85a5b4","type":"text","text":"[[Génesis - Sistema de Rol (0.5.3).pdf|Génesis]]\n[[Anexo I - Dotes y Habilidades (0.2.1, para Génesis 0.5.1).pdf|Anexo 1 - Dotes y Habilidades]]\n[[Anexo III - Ánima.pdf|Anexo 3 - Ánima]]\n[[Compañero de Partida (0.2).pdf|Chuleta Partida]]\n","x":-180,"y":20,"width":320,"height":160},
+		{"id":"c0f7461b4865c67c","type":"text","text":"[[Downtime 1|Fin del 10 Después de la mentira]]","x":-440,"y":-280,"width":280,"height":50},
+		{"id":"a7fa317bf582d4e2","type":"text","text":"[[Downtime 2|11 Después de la mentira]]","x":-160,"y":-280,"width":280,"height":50},
+		{"id":"72e251931821be9f","type":"text","text":"[[Gabriel]]","x":-441,"y":-457,"width":240,"height":50},
+		{"id":"2a1b5034939c74e1","type":"text","text":"[[Los Labriegos]]","x":40,"y":-460,"width":180,"height":60},
+		{"id":"a11816e4bdb883a1","type":"text","text":"[[La Profesora]]","x":40,"y":-520,"width":180,"height":60}
+	],
+	"edges":[]
+}
