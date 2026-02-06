@@ -18,79 +18,13 @@ Ferrán, nacido en el año 2 DM, pertenece a la familia de los [[Artesanos]]. Es
 --INS a tiradas cuyo objetivo sea adquirir posesiones de forma ilícita.
 --EXP a toda tirada hecha estando solo o cuyo resultado no sea observado por nadie.
 ### Estadísticas
-##### Físico *[2] (+2)*
-Combate
-- Pelea R.0
-- Dureza R.IV [T]
 
-Salud
-- Inmunidad R.I
-- Resistencia R.0
+| Físico *[2] (+2)*                                                                                                                                                                         | Instinto *[2] (+2)*                                                                                                                                                                                                      | Estilo *[2]*                                                                                                                                                                                                 | Experiencia *[3] (+1)*                                                                                                                                                                                                                                                                                                                                                                                                                  | Poder *[2]* |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Combate<br>- Pelea R.0<br>- Dureza R.IV [T]<br><br>Salud<br>- Inmunidad R.I<br>- Resistencia R.0<br><br>Atleticismo<br>- Fuerza R.0<br>- Velocidad R.0<br>- Acrobacias R.0<br>- Monta R.0 | Combate<br>- Tiro R.0<br>- Esquiva R.0<br><br>Sentidos<br>- Percepción R.I<br>- Investigación R.0<br>- Orientación R.0<br><br>Sagacidad<br>- Reflejos R.0<br>- Intuición R.0 (+3)<br>- Sigilo R.0<br>- Supervivencia R.0 | Conversación<br>- Perspicacia R.I (+2)<br>- Empatía R.I<br>- Influencia R.0<br>- Actuación R.0<br>- Calma R.I<br><br>Presencia<br>- Etiqueta R.0<br>- Aspecto R.0<br><br>Interpretación<br>- Espectáculo R.0 | Combate<br>- Esgrima R.0<br>- Hachas R.0<br>- Mazas R.0<br>- Lanzas R.0<br><br>- Arcos R.0<br>- A. de Mano R.0<br>- A. de Hombro R.0<br>- Proyección R.I<br><br>- Desarmado R.0<br><br>Erudición<br>- Medicina R.0<br>- Esoterismo R.0<br>- Animantismo R.0<br>- Legislismo R.0<br>- Ficticismo R.0<br><br>Competencia<br>- Soldadesca R.0<br>- Alquimia R.0<br>- Cocina R.IV [T]<br>- Forja R.0 (+3)<br>- Saber R.0<br>- Artesanía R.0 |             |
 
-Atleticismo
-- Fuerza R.0
-- Velocidad R.0
-- Acrobacias R.0
-- Monta R.0
-##### Instinto *[2] (+2)*
-Combate
-- Tiro R.0
-- Esquiva R.0
-
-Sentidos
-- Percepción R.I
-- Investigación R.0
-- Orientación R.0
-
-Sagacidad
-- Reflejos R.0
-- Intuición R.0 (+3)
-- Sigilo R.0
-- Supervivencia R.0
-##### Estilo *[2]*
-Conversación
-- Perspicacia R.I (+2)
-- Empatía R.I
-- Influencia R.0
-- Actuación R.0
-- Calma R.I
-
-Presencia
-- Etiqueta R.0
-- Aspecto R.0
-
-Interpretación
-- Espectáculo R.0
-##### Experiencia *[3] (+1)*
-Combate
-- Esgrima R.0
-- Hachas R.0
-- Mazas R.0
-- Lanzas R.0
-<br>
-- Arcos R.0
-- A. de Mano R.0
-- A. de Hombro R.0
-- Proyección R.I
-<br>
-- Desarmado R.0
-
-Erudición
-- Medicina R.0
-- Esoterismo R.0
-- Animantismo R.0
-- Legislismo R.0
-- Ficticismo R.0
-
-Competencia
-- Soldadesca R.0
-- Alquimia R.0
-- Cocina R.IV [T]
-- Forja R.0 (+3)
-- Saber R.0
-- Artesanía R.0
-##### Poder *[2]*
 ---
 ### LOG
+Background: Intuicion +3, Perspicaci +2, Forja +3
 [[Downtime 1]]: *2 recetas de hasta complejidad IV (Falta anexo II)*
 [[Downtime 2]]: Percepcción 0 :LiChevronsRight: I, Empatia 0 :LiChevronsRight: I, Calma 0 :LiChevronsRight: I, Perpicacia 0 (+2) :LiChevronsRight: I (+2)
