@@ -26,5 +26,6 @@ Ferrán, nacido en el año 2 DM, pertenece a la familia de los [[Artesanos]]. Es
 ---
 ### LOG
 Background: Intuicion +3, Perspicaci +2, Forja +3
+Creation: Dureza [T], Cocina [T]
 [[Downtime 1]]: *2 recetas de hasta complejidad IV (Falta anexo II)*
 [[Downtime 2]]: Percepcción 0 :LiChevronsRight: I, Empatia 0 :LiChevronsRight: I, Calma 0 :LiChevronsRight: I, Perpicacia 0 (+2) :LiChevronsRight: I (+2)
