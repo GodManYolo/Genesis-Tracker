@@ -16,78 +16,10 @@ Fabio, nacido el 998 MM, es el hijo mayor de la familia de los [[]]. Su hermana 
 
 -Nunca capitulas voluntariamente.
 ### Estadísticas
-##### Físico *[4]*
-Combate
-- Pelea R.I (+2)
-- Dureza R.I (+2)
 
-Salud
-- Inmunidad R.0
-- Resistencia R.IV
-
-Atleticismo
-- Fuerza R.II
-- Velocidad R.0
-- Acrobacias R.0
-- Monta R.0
-##### Instinto *[2]*
-Combate
-- Tiro R.0
-- Esquiva R.0 (+2)
-
-Sentidos
-- Percepción R.I (+1)
-- Investigación R.I
-- Orientación R.I
-
-Sagacidad
-- Reflejos R.0 (+1)
-- Intuición R.0 
-- Sigilo R.0
-- Supervivencia R.0
-##### Estilo *[2]*
-Conversación
-- Perspicacia R.I 
-- Empatía R.I
-- Influencia R.0
-- Actuación R.0
-- Calma R.I
-
-Presencia
-- Etiqueta R.I
-- Aspecto R.0
-
-Interpretación
-- Espectáculo R.0
-##### Experiencia *[2] (+1)*
-Combate
-- Esgrima R.0
-- Hachas R.0
-- Mazas R.III [T]
-- Lanzas R.0
-<br>
-- Arcos R.0
-- A. de Mano R.0
-- A. de Hombro R.II
-- Proyección R.0
-<br>
-- Desarmado R.0
-
-Erudición
-- Medicina R.0
-- Esoterismo R.0
-- Animantismo R.0
-- Legislismo R.0
-- Ficticismo R.0
-
-Competencia
-- Soldadesca R.II
-- Alquimia R.0
-- Cocina R.0
-- Forja R.0
-- Saber R.0
-- Artesanía R.0
-##### Poder *[3] (-1)*
+| Físico *[4]*                                                                                                                                                                                     | Instinto *[2]*                                                                                                                                                                                                                      | Estilo *[2]*                                                                                                                                                                                             | Experiencia *[2] (+1)*                                                                                                                                                                                                                                                                                                                                                                                                                        | Poder *[3] (-1)* |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Combate<br>- Pelea R.I (+2)<br>- Dureza R.I (+2)<br><br>Salud<br>- Inmunidad R.0<br>- Resistencia R.IV<br><br>Atleticismo<br>- Fuerza R.II<br>- Velocidad R.0<br>- Acrobacias R.0<br>- Monta R.0 | Combate<br>- Tiro R.0<br>- Esquiva R.0 (+2)<br><br>Sentidos<br>- Percepción R.I (+1)<br>- Investigación R.I<br>- Orientación R.I<br><br>Sagacidad<br>- Reflejos R.0 (+1)<br>- Intuición R.0 <br>- Sigilo R.0<br>- Supervivencia R.0 | Conversación<br>- Perspicacia R.I <br>- Empatía R.I<br>- Influencia R.0<br>- Actuación R.0<br>- Calma R.I<br><br>Presencia<br>- Etiqueta R.I<br>- Aspecto R.0<br><br>Interpretación<br>- Espectáculo R.0 | Combate<br>- Esgrima R.0<br>- Hachas R.0<br>- Mazas R.III [T]<br>- Lanzas R.0<br><br><br>- Arcos R.0<br>- A. de Mano R.0<br>- A. de Hombro R.II<br>- Proyección R.0<br><br><br>- Desarmado R.0<br><br>Erudición<br>- Medicina R.0<br>- Esoterismo R.0<br>- Animantismo R.0<br>- Legislismo R.0<br>- Ficticismo R.0<br><br>Competencia<br>- Soldadesca R.II<br>- Alquimia R.0<br>- Cocina R.0<br>- Forja R.0<br>- Saber R.0<br>- Artesanía R.0 |                  |
 ### Dotes 
 ###### Resistencia - Sangre, dolor y lágrima *(Resistencia VI)*
 *Pasiva*
