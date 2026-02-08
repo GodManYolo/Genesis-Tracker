@@ -24,5 +24,8 @@ Atila, Nacido en 998 MM, pertenece a la familia de los [[]]. Fue adoptado por [[
 
 ---
 ### LOG
+Background: Dureza +1, Resistencia +1, Proyección +1, Forja +1
+Creation: Pelea [T], Fuerza [T], Monta 0 :LiChevronsRight: I
 [[Downtime 1]]: Monta I :LiChevronsRight: II, Resistencia 0 :LiChevronsRight: I, Supervivencia 0 :LiChevronsRight: I, *Abaratado FIS para siguiente mejora en 2*
 [[Downtime 2]]: Resistencia I :LiChevronsRight: II, Percepción I :LiChevronsRight: II, Orientación 0 :LiChevronsRight: I, Empatía I :LiChevronsRight: II
+[[Downtime 3]]
