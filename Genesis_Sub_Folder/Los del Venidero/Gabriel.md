@@ -18,79 +18,15 @@ Gabriel, nacido en el año 999 MM, pertenece a la familia de los [[]]. Es el ún
 --EXP al tratar con persona cuyo EXP sea 2 o inferior.
 --EXP a la hora de actuar como alguien cuya personalidad es distinta a la tuya.
 ### Estadísticas
-##### Físico *[2] (+1)*
-Combate
-- Pelea R.I
-- Dureza R.0
 
-Salud
-- Inmunidad R.0
-- Resistencia R.0
+| Físico *[2] (+1)*                                                                                                                                                                    | Instinto *[2]*                                                                                                                                                                                                            | Estilo *[3]*                                                                                                                                                                                                   | Experiencia *[2] (+1)*                                                                                                                                                                                                                                                                                                                                                                                                                    | Poder *[2] (-1)* |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Combate<br>- Pelea R.I<br>- Dureza R.0<br><br>Salud<br>- Inmunidad R.0<br>- Resistencia R.0<br><br>Atleticismo<br>- Fuerza R.0<br>- Velocidad R.0<br>- Acrobacias R.0<br>- Monta R.0 | Combate<br>- Tiro R.I<br>- Esquiva R.I<br><br>Sentidos<br>- Percepción R.0 (+1)<br>- Investigación R.II<br>- Orientación R.0<br><br>Sagacidad<br>- Reflejos R.0<br>- Intuición R.I<br>- Sigilo R.I<br>- Supervivencia R.0 | Conversación<br>- Perspicacia R.II<br>- Empatía R.0 (+1)<br>- Influencia R.0<br>- Actuación R.II<br>- Calma R.I<br><br>Presencia<br>- Etiqueta R.I<br>- Aspecto R.0<br><br>Interpretación<br>- Espectáculo R.0 | Combate<br>- Esgrima R.0<br>- Hachas R.0<br>- Mazas R.0<br>- Lanzas R.0<br><br>- Arcos R.0<br>- A. de Mano R.0<br>- A. de Hombro R.0<br>- Proyección R.0<br><br>- Desarmado R.0<br><br>Erudición<br>- Medicina R.III [T]<br>- Esoterismo R.0 (+1)<br>- Animantismo R.0<br>- Legislismo R.0<br>- Ficticismo R.0<br><br>Competencia<br>- Soldadesca R.0<br>- Alquimia R.0<br>- Cocina R.0<br>- Forja R.0 <br>- Saber R.0<br>- Artesanía R.0 |                  |
 
-Atleticismo
-- Fuerza R.0
-- Velocidad R.0
-- Acrobacias R.0
-- Monta R.0
-##### Instinto *[2]*
-Combate
-- Tiro R.I
-- Esquiva R.I
-
-Sentidos
-- Percepción R.0 (+1)
-- Investigación R.II
-- Orientación R.0
-
-Sagacidad
-- Reflejos R.0
-- Intuición R.I
-- Sigilo R.I
-- Supervivencia R.0
-##### Estilo *[3]*
-Conversación
-- Perspicacia R.II
-- Empatía R.0 (+1)
-- Influencia R.0
-- Actuación R.II
-- Calma R.I
-
-Presencia
-- Etiqueta R.I
-- Aspecto R.0
-
-Interpretación
-- Espectáculo R.0
-##### Experiencia *[2] (+1)*
-Combate
-- Esgrima R.0
-- Hachas R.0
-- Mazas R.0
-- Lanzas R.0
-<br>
-- Arcos R.0
-- A. de Mano R.0
-- A. de Hombro R.0
-- Proyección R.0
-<br>
-- Desarmado R.0
-
-Erudición
-- Medicina R.III [T]
-- Esoterismo R.0 (+1)
-- Animantismo R.0
-- Legislismo R.0
-- Ficticismo R.0
-
-Competencia
-- Soldadesca R.0
-- Alquimia R.0
-- Cocina R.0
-- Forja R.0 
-- Saber R.0
-- Artesanía R.0
-##### Poder *[2] (-1)*
 ---
 ### LOG
+Background: Percepción +1, Empatía +1, Esoterismo +1
+Creation: Medicina [T], Pelea 0 :LiChevronsRight: I, Tiro 0 :LiChevronsRight: I, Esquiva 0 :LiChevronsRight: I, Investigación 0 :LiChevronsRight: I, Perspicacia 0 :LiChevronsRight: I, Actuación 0 :LiChevronsRight: I
 [[Downtime 1]]: Actuación I :LiChevronsRight: II, Perspicacia I :LiChevronsRight: II, Sigilo 0 :LiChevronsRight: I
 [[Downtime 2]]: *EST [2] :LiChevronsRight: [3]*, Intuición 0 :LiChevronsRight: I, Investigación I :LiChevronsRight: II, Calma 0 :LiChevronsRight: I, Etiqueta 0 :LiChevronsRight: I
+[[Downtime 3]]: Calma I :LiChevronsRight: II, Influencia 0 :LiChevronsRight: I, Asped
