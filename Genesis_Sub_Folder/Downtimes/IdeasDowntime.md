@@ -5,14 +5,14 @@
 - Año 4 tratar de hacer un trato con Ramos: Entrenar un cocinero para suplir mi vacante a cambio de un carromato, material de cocina y de un yunque.
 - Año 5 conseguir dinero para una mula de carga que pueda con el carromato (Pedir ayuda a Atila si es posible) . Tomar rumbo a otros lugares donde comenzar a vender comida y armas para defensa de poblados frente a los hombres alados a lo largo del trayecto. 
 - En otros pueblos tratar de trabajar en la cocina con mejor renombre durando un periodo de 2 estaciones.
-## Uso PP  - (24pp) + 18 teóricos
+## Uso PP  - (11pp) + 12 teóricos
 - ✔Percepción 1 - (1pp)
 - Percepción 2 - (2pp)
 - Forja 4 - (4pp)
 - Forja 5 - (5pp)
 - ✔Velocidad 1 (1pp)
 - Velocidad 2 (2pp)
-- Mazas 3 - (10pp) *Reducir a 1 en caso de no obtener ayuda de Fabio*
+- Esgrima 3 - (5pp)
 - POD 3 - (5pp)
 - ✔Saber I - (5pp)
 - ✔Saber (Economía) - (5pp)
@@ -20,7 +20,7 @@
 - EXP 5 - (9pp)
 
 - FICCION (??pp)
-Total = 69pp + ??pp
+Total = 28pp + ??pp
 
 ## Localizaciones Interesantes
 Tierras de la Gloria y el Honor:
