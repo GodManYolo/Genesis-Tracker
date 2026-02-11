@@ -116,7 +116,7 @@ Los meses en el calendario parecen interminables. _Luna_ te narra un pasaje de s
 Y entonces, sólo queda esperar. Los días pasan a las noches. El calor es robado por el cielo blanco, y las nieves pronto cubren la ciudad. Día a día observas ventana para fuera, pensando en el mundo más allá, viviendo en ese futuro más que en el presente. **Y es cuando caen las nieves que ves a la distancia volver camino al sur a esos techos coloridos y gentes danzantes: los _Meteoros_ están aquí para tomarte de la mano y llevarte a lugares con los que sólo podrías haber soñado.**
 
 **Por tu año papando moscas, recibes +2PP (TOTAL: 10)** 
-**Adicionalmente aumentas tu EST a 3 y consigues Rango I en Investigación, Rango I en Actuación y Etiqueta, y Rango III en Empatía.** :LiCoins: Gastas una buena parte de tu capital en tu nuevo equipo de viaje. Te sobran 88 onzas de plata. Llevas la Espada del Apóstata contigo. ⠀
+**Adicionalmente aumentas tu EST a 3 y consigues Rango I en Investigación, Rango I en Actuación y Etiqueta, y Rango III en Empatía. ** :LiCoins: Gastas una buena parte de tu capital en tu nuevo equipo de viaje. Te sobran 88 onzas de plata. Llevas la Espada del Apóstata contigo. ⠀
 
 ###### **Gabriel** ( Giomalaga ):  
 Jurarías que ese último puñetazo ha arrancado algo dentro de tu boca. A esta edad, los dientes ya no son de leche, ¿Verdad?... qué pregunta más tonta que hacerse en esta situación. "_Si te sirve de consuelo, tienes toda la razón del mundo, chaval. Menos mal que los muertos no hablan._" 
