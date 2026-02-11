@@ -1,4 +1,4 @@
-# Génesis: 14 después de la Mentira
+********# Génesis: 14 después de la Mentira
 
 ### :LiNewspaper: NOTICIEROS
 - ¡El Robo del Milenio! ¡El Banco Central de Nueva Mariannes, violado por un grupo de ladrones desconocido! ¡Nadie sabe qué se han llevado! - _Gaceta de Nueva Mariannes_
@@ -257,4 +257,4 @@ Lo que todos escucháis es un eco solitario en el aire. Un único ruido estruend
 **El funeral será el primer día de primavera.**
 
 **Por tu año planeando +1PP (TOTAL: 13)** 
-****![🪙](https://discord.com/assets/63c0e0ad98a0a834.svg) Tras unos pequeños gastos, cuando pasas por la imprenta cargas tus 1085 onzas de plata en _Mojón_, a parte de una extraña nota/carta que encontraste en la mesa, dirigida a ti.  ![🔴](https://discord.com/assets/75d49373b7b7ee6f.svg) Rango I en Dureza. ![🟣](https://discord.com/assets/a81461ffb2864f51.svg) Rango III en Actuación ![🟣](https://discord.com/assets/a81461ffb2864f51.svg) Rango II en Etiqueta ![🟣](https://discord.com/assets/a81461ffb2864f51.svg) Rango II en Influencia ![🟣](https://discord.com/assets/a81461ffb2864f51.svg) Rango I en Espectáculo. ![🔵](https://discord.com/assets/bd987f3558fe3c06.svg) Rango I en Esgrima (-3PP) ![🔵](https://discord.com/assets/bd987f3558fe3c06.svg) Rango I en Especialización (Estilete), un arma para profesionales. +1PP (Total: 13)
+**Adicionalmente recibes Rango I en Dureza, Rango III en Actuación, Rango II en Etiqueta e Influencia, Rango I en Espectáculo, Rango I en Esgrima y Rango I en Especialización (Estilete), un arma para profesionales.** :LiCoins: Tras unos pequeños gastos, cuando pasas por la imprenta cargas tus 1085 onzas de plata en _Mojón_, a parte de una extraña nota/carta que encontraste en la mesa, dirigida a ti. 

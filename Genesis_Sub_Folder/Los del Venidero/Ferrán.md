@@ -31,3 +31,4 @@ Creation: Dureza [T], Cocina [T], Inmunidad 0 :LiChevronsRight: I, Proyección 0
 [[Downtime 2]]: Percepción 0 :LiChevronsRight: I, Empatía 0 :LiChevronsRight: I, Calma 0 :LiChevronsRight: I, Perspicacia II :LiChevronsRight: III
 [[Downtime 3]]: Intuición III :LiChevronsRight: IV, Influencia 0 :LiChevronsRight: II, Empatía 0 :LiChevronsRight: I, Esgrima 0 :LiChevronsRight: I, Saber 0 :LiChevronsRight: I, Dote Saber (Economía)
 [[Downtime 4]]: *EXP [3] (+1) :LiChevronsRight: [4] (+1)*, Velocidad 0 :LiChevronsRight: I, Empatía I :LiChevronsRight: II, Etiqueta 0 :LiChevronsRight: I, Alquimia 0 :LiChevronsRight: I
+[[Downtime 5]]: *EST [2] 0 :LiChevronsRight: [3]*
