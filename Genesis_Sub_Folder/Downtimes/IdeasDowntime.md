@@ -5,7 +5,7 @@
 - Año 4 tratar de hacer un trato con Ramos: Entrenar un cocinero para suplir mi vacante a cambio de un carromato, material de cocina y de un yunque.
 - Año 5 conseguir dinero para una mula de carga que pueda con el carromato (Pedir ayuda a Atila si es posible) . Tomar rumbo a otros lugares donde comenzar a vender comida y armas para defensa de poblados frente a los hombres alados a lo largo del trayecto. 
 - En otros pueblos tratar de trabajar en la cocina con mejor renombre durando un periodo de 2 estaciones.
-## Uso PP  - (11pp) + 12 teóricos
+## Uso PP  - (10pp) + 10 teóricos
 - ✔Percepción 1 - (1pp)
 - Percepción 2 - (2pp)
 - Forja 4 - (4pp)
