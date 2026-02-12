@@ -1,4 +1,4 @@
-********# Génesis: 14 después de la Mentira
+# Génesis: 14 después de la Mentira
 
 ### :LiNewspaper: NOTICIEROS
 - ¡El Robo del Milenio! ¡El Banco Central de Nueva Mariannes, violado por un grupo de ladrones desconocido! ¡Nadie sabe qué se han llevado! - _Gaceta de Nueva Mariannes_
