@@ -34,4 +34,4 @@ Creation: Mazas [T], Resistencia 0 :LiChevronsRight: I, Fuerza 0 :LiChevronsRigh
 [[Downtime 2]]: Fuerza I :LiChevronsRight: II, Resistencia I :LiChevronsRight: II, Intuición 0 :LiChevronsRight: I, Armas de Hombro I :LiChevronsRight: II 
 [[Downtime 3]]: *FIS [3] :LiChevronsRight: [4]*, Dote: *Sangre, Dolor y Lágrimas*,  Resistencia  II :LiChevronsRight: IV, Pelea 0 (+2) :LiChevronsRight: I (+2), Dureza 0 (+2) :LiChevronsRight: I (+2), Investigación 0 :LiChevronsRight: I, Empatía 0 :LiChevronsRight: I, Calma 0 :LiChevronsRight: I, Soldadesca 0 :LiChevronsRight: II 
 [[Downtime 4]]: Velocidad 0 :LiChevronsRight: I, Inmunidad 0 :LiChevronsRight: I, Supervivencia 0 :LiChevronsRight: I, Espectáculo 0 :LiChevronsRight: I, Aspecto 0 :LiChevronsRight: I
-[[Downtime 5]]: *EXP [2](+1) :LiChevronsRight: [3](+1)*, Inmunidad I :LiChevronsRight: II, Calma I :LiChevronsRight: II, Influencia 0 :LiChevronsRight: I, Soldadesca II :LiChevronsRight: III
+[[Downtime 5]]: *EXP [2] (+1) :LiChevronsRight: [3] (+1)*, Inmunidad I :LiChevronsRight: II, Calma I :LiChevronsRight: II, Influencia 0 :LiChevronsRight: I, Soldadesca II :LiChevronsRight: III
