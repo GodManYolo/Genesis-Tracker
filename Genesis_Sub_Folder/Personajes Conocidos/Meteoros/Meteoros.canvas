@@ -1,7 +1,15 @@
 {
 	"nodes":[
-		{"id":"05af7c6e74767736","type":"text","text":"[[Malaquias]]","x":-209,"y":-133,"width":250,"height":60},
-		{"id":"a2b58f449d447fe8","x":-392,"y":-134,"width":250,"height":60,"type":"text","text":"Lider de la compars"}
+		{"id":"7b2c99ad6aa2db15","x":-460,"y":-240,"width":145,"height":60,"color":"5","type":"text","text":"**METEOROS**"},
+		{"id":"05af7c6e74767736","type":"text","text":"[[Malaquias]]","x":-40,"y":-400,"width":120,"height":60},
+		{"id":"d6ce059d75802df8","type":"text","text":"[[Zacarías y Dorotea]]","x":-40,"y":-140,"width":200,"height":60},
+		{"id":"ae50c890279f0c9a","type":"text","text":"[[Esmeralda]]","x":340,"y":-140,"width":140,"height":60},
+		{"id":"1aec3446b589794d","x":580,"y":-230,"width":360,"height":240,"type":"text","text":"Joven de la edad de [[Ferrán]] la cual comparte el color de ojos y muchas conversaciones.\n- Puede haber tomado interés por [[Ferrán]].\n- Sus padres la han ofrecido en varias ocasiones en casamiento a [[Ferrán]]"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"04ded1a29d0c1990","fromNode":"d6ce059d75802df8","fromSide":"right","toNode":"ae50c890279f0c9a","toSide":"left","label":"Hija"},
+		{"id":"2de1de4e583a2182","fromNode":"7b2c99ad6aa2db15","fromSide":"right","toNode":"05af7c6e74767736","toSide":"left","label":"Lider"},
+		{"id":"7e03f474b1adcd6d","fromNode":"7b2c99ad6aa2db15","fromSide":"right","toNode":"d6ce059d75802df8","toSide":"left","label":"Mercaderes"},
+		{"id":"4952d69c3b9e86cd","fromNode":"ae50c890279f0c9a","fromSide":"right","toNode":"1aec3446b589794d","toSide":"left"}
+	]
 }
