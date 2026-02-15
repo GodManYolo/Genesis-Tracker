@@ -71,4 +71,8 @@ Pero el largo del día lo principal son sus tareas. Llevar los fogones, experime
 - A la llegada del invierno toca ultimar el tema de su marcha. No mencionaron cuando volverían el próximo año, pero tendría que estar preparado para marchar. Y un hombre preparado no le teme a la lluvia.
 
 ## [[Downtime Meteoros 1| Primavera 15 DM.]]
-Ver el cielo estrellados por las noches es algo nuevo, algo radiante de poder para la mente de un joven con ansias de ver mundo. 
+Ver el cielo estrellados por las noches es algo nuevo, algo radiante de poder para la mente de un joven con ansias de ver mundo. Y que mejor que contar con un gran sequito de gente para disfrutar del viaje. Así es, aquí comienza mi primer viaje. Ya sea hacia un pueblo en las montañas, una granja en mitad del camino o una gran ciudad amurallada; todos los lugares me muestran la sonrisa de mi difunto padre. Él ya no lo sabrá, pero esa conversación caló hasta lo mas profundo de los deseos de su hijo.
+
+Es cierto que pretendo ser el mejor cocinero y pese a que Alberto no sea uno de los mejores, ese sueño no va a desaparecer. Las cocinas van a pasar a ser cosas de dos a partir de ahora, y voy a demostrar mi valor a los Meteoros con grandes manjares de las comidas mas simples posibles. No buscaría elegancia, sino sabor y transmitir sentimientos de estar en casa. 
+
+Por las noches 
