@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"05af7c6e74767736","x":-209,"y":-133,"width":250,"height":60,"type":"text","text":"[[Malaquias]]"}
+		{"id":"05af7c6e74767736","type":"text","text":"[[Malaquias]]","x":-209,"y":-133,"width":250,"height":60},
+		{"id":"a2b58f449d447fe8","x":-392,"y":-134,"width":250,"height":60,"type":"text","text":"Lider de la compars"}
 	],
 	"edges":[]
 }
