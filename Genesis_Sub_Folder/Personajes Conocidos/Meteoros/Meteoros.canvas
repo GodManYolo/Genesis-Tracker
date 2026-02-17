@@ -6,17 +6,18 @@
 		{"id":"d6ce059d75802df8","type":"text","text":"[[Zacarías y Dorotea]]","x":-240,"y":-560,"width":200,"height":60},
 		{"id":"05af7c6e74767736","type":"text","text":"[[Malaquias]]","x":-240,"y":-680,"width":120,"height":60},
 		{"id":"ae50c890279f0c9a","type":"text","text":"[[Esmeralda]]","x":140,"y":-560,"width":140,"height":60},
-		{"id":"1aec3446b589794d","type":"text","text":"Joven de la edad de [[Ferrán]] la cual comparte el color de ojos y muchas conversaciones.\n- Puede haber tomado interés por [[Ferrán]].\n- Sus padres la han ofrecido en varias ocasiones en casamiento a [[Ferrán]]","x":440,"y":-650,"width":360,"height":240},
+		{"id":"1aec3446b589794d","type":"text","text":"Joven de la edad de [[Ferrán]] la cual comparte el color de ojos y muchas conversaciones.\n- Puede haber tomado interés por [[Ferrán]].\n- Sus padres la han ofrecido en varias ocasiones en casamiento a [[Ferrán]]\nSe quedó en la ciudad de Celo, según sus padres, encontró un varón en condiciones.","x":440,"y":-650,"width":360,"height":240},
 		{"id":"92bc985396a368bb","type":"text","text":"Silvano y Yegra","x":140,"y":-440,"width":160,"height":60},
 		{"id":"72daed2e68df1f43","type":"text","text":"Melibea","x":140,"y":-320,"width":120,"height":60},
 		{"id":"98cf8f570df087c0","type":"text","text":"Fulgencio y Crispín","x":140,"y":-200,"width":200,"height":60},
-		{"id":"b9d98f72622f92a9","x":12,"y":-710,"width":108,"height":60,"type":"text","text":"Zacarias"},
+		{"id":"b9d98f72622f92a9","type":"text","text":"Zacarias","x":12,"y":-710,"width":108,"height":60},
 		{"id":"7b2c99ad6aa2db15","type":"text","text":"**METEOROS**","x":-780,"y":-260,"width":145,"height":60,"color":"5"},
 		{"id":"4eef9c5fc258cf2d","type":"text","text":"Leandro","x":-240,"y":-80,"width":120,"height":60},
 		{"id":"fde69361ad4dd0da","type":"text","text":"[[La vieja]]","x":-240,"y":40,"width":100,"height":60},
 		{"id":"b1cf0a4d6fa13a7d","type":"text","text":"Alberto","x":-240,"y":160,"width":100,"height":60},
 		{"id":"31d170724dd8049f","type":"text","text":"Zoraida","x":140,"y":-80,"width":120,"height":60},
-		{"id":"3f40ea38c0623b67","type":"text","text":"Samara","x":140,"y":40,"width":100,"height":60}
+		{"id":"3f40ea38c0623b67","type":"text","text":"Samara","x":140,"y":40,"width":100,"height":60},
+		{"id":"ee998ee250662b67","x":364,"y":40,"width":256,"height":80,"type":"text","text":"Apenada pues su padre no le enseña esgrima, y a [[Ferrán]] si"}
 	],
 	"edges":[
 		{"id":"04ded1a29d0c1990","fromNode":"d6ce059d75802df8","fromSide":"right","toNode":"ae50c890279f0c9a","toSide":"left","label":"Hija"},
@@ -35,6 +36,7 @@
 		{"id":"734be52303cbf0f2","fromNode":"31d170724dd8049f","fromSide":"bottom","toNode":"3f40ea38c0623b67","toSide":"top","label":"Hija"},
 		{"id":"9ee14418d9eacb72","fromNode":"7b2c99ad6aa2db15","fromSide":"bottom","toNode":"fde69361ad4dd0da","toSide":"left","label":"Hechicera"},
 		{"id":"28b6b14fd6ebc5ab","fromNode":"7b2c99ad6aa2db15","fromSide":"bottom","toNode":"b1cf0a4d6fa13a7d","toSide":"left","label":"Cocinero"},
-		{"id":"5237c2c95534d0ce","fromNode":"d6ce059d75802df8","fromSide":"top","toNode":"b9d98f72622f92a9","toSide":"bottom","label":"Buscador de\nTrabajos"}
+		{"id":"5237c2c95534d0ce","fromNode":"d6ce059d75802df8","fromSide":"top","toNode":"b9d98f72622f92a9","toSide":"bottom","label":"Buscador de\nTrabajos"},
+		{"id":"871d09497312547b","fromNode":"3f40ea38c0623b67","fromSide":"right","toNode":"ee998ee250662b67","toSide":"left"}
 	]
 }

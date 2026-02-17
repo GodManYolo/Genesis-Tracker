@@ -70,7 +70,7 @@ Pero el largo del día lo principal son sus tareas. Llevar los fogones, experime
 - Otoño se presenta nuevamente vacía. O eso pensaba hasta la tormenta. Hablaría con Gabriel para entrar dentro de la hacienda afectada. Algo huele a chamuscado y no es la madera quemada de la ruina. 
 - A la llegada del invierno toca ultimar el tema de su marcha. No mencionaron cuando volverían el próximo año, pero tendría que estar preparado para marchar. Y un hombre preparado no le teme a la lluvia.
 
-## [[Downtime Meteoros 1| Primavera 15 DM.]]
+## [[Downtime Meteoros 1|Primavera 15 DM.]]
 Ver el cielo estrellados por las noches es algo nuevo, algo radiante de poder para la mente de un joven con ansias de ver mundo. Y que mejor que contar con un gran sequito de gente para disfrutar del viaje. Así es, aquí comienza mi primer viaje. Ya sea hacia un pueblo en las montañas, una granja en mitad del camino o una gran ciudad amurallada; todos los lugares me muestran la sonrisa de mi difunto padre. Él ya no lo sabrá, pero esa conversación caló hasta lo mas profundo de los deseos de su hijo.
 
 Por las noches hablaría de mis quehaceres en el venidero y en Aguasrápidas, pero evitaría hablar de los sucedido aquella noche. Solo diría que perdí a mis padre y que hui con mis amigos, pero hasta ahí. No quiero que se me tenga pena en mi nueva casa. Preguntaría por sus viajes, que ciudades han visitado, que lares han acampado y que cielos han visto distintos al de esa noche. Las historias del hogar de los Meteoros también serían gratamente recibidas, en especial aquellas que no tengan que ver con el clima... ya las he escuchado varias veces. Festividades, competiciones o juegos típicos de los niños, cualquier tema es un mundo que quiero conocer. 
@@ -81,7 +81,7 @@ Pero el resto del día sería otra cosa. Y sin duda hay demasiadas cosas nuevas 
 
 A la llegada a Mazorrial trataría de hablar con Zacarías para encontrar restaurantes, panaderías, bares o similares en los que poder trabajar por las mañanas. Si nuestra estancia es longeva incluso trataría de ir rotando por otros lugares para aprender de ellos. Este viaje es para conocer, experimentar y probar cosas nuevas. Al punto que me llevaría a hablar con el líder de los Piratas para ofrecerle un plato digno de Aguasrápidas para conocer su historia y su origen. (lugar de proveniencia, no como se convirtió en pirata) Claro esta que se detectar cuando alguien no es bienvenido y mucho mas respecto a lugares peligrosos de una ciudad. Si esto me pondría en peligro a mi o a los Meteoros, me olvidaría completamente de ello.
 
-## [[Downtime Meteoros 1| Verano 15 DM.]]
+## [[Downtime Meteoros 1|Verano 15 DM.]]
 Parece a primera vista una decisión difícil. O eso tendría que ser. Ciertamente Ameya e Iara fueron unas grandes compañeras de cocina. Pero ahí se haya la cuestión. Ya descubrí esos sabores, esos platos típicos de Ytavira, mientras que el otro camino propone adentrarse en una aventura en toda regla. Mi voto va dirigido a atravesar el Paso de las Aguas. 
 
 Durante el camino seguiría con mis tareas en cocina y aceptaría la propuesta de aprender a blandir el arma. La siento cómoda pese a no haber practicado nunca esgrima. Quizá hace unos cuantos años hubiera disfruta aprender con Fabio, pero marchó rápido a las minas y desde entonces no tuvo tanto tiempo para los dos. 
@@ -89,10 +89,15 @@ Durante el camino seguiría con mis tareas en cocina y aceptaría la propuesta d
 Siendo ya el segundo viaje que hago, preguntaría a Calisto y Pascuala respecto al cuidado de animales. Se el cuidado básico de Jordán, pero no se montar en él ni como motivarle de manera decente.
 
 Cuando nos asentemos en el nuevo lugar, trataría de hablar con la gente de más allá de la estepa. No se si es un pueblo, un campamento provisional o una ciudad entera, pero son gente de lejos, y seguramente estén dispuestos a intercambiar alimentos. Y quien sabe, quizá algún plan propuesto por el grupo pueda interesarme.
-## [[Downtime Meteoros 1| Otoño15 DM.]]
+## [[Downtime Meteoros 1|Otoño15 DM.]]
 Ahora que Gervasio y sus hijos se han quedado en la ultima parada he pasado a ser no solo el cocinero de los Centella, sino también su herrero. Hacia mucho que no le daba al hierro pero estoy seguro que un poco de ejercicio con el martillo no vendrá mal para recuperar la soltura. Si hubiera tenido la fragua de mi padre hubiera sido un buen lugar en el que descubrir mi pecho al aire y sentir la chispas tocar la piel. Bueno, deja de soñar despierto otra vez Ferrán. Si alguien fuera capaz de leer tu mente no volverías a mirarle a la cara de la vergüenza.
 
 Si tengo tiempo libre me gustaría aprender con Leandro. Ya hace varias lunas que me propuso enseñarme a usarla y se que siendo menos en la comparsa, hace falta estar preparado para algún... digamos susto.
 
 A la llegada ciertamente es un bajón grande a la moral. Que la nueva ciudad a la que llegamos sea tan cerrada... Pero... como de cerrada? Sus gentes salen, no? Intentarlo un par de noches no acaba con nadie. Hablar, comerciar y mas importante, comer con otros es un acto humano que pueden gozar todos. Pero si se rehúsan a compartir con nosotros, no hay mal que por bien no venga. El nuevo mundo espera y yo estoy ansioso por ver mas lugares. 
-## [[Downtime Meteoros 1| Invierno 15 DM.]]
+## [[Downtime Meteoros 1|Invierno 15 DM.]]
+Hace frio, y la voz de Juan Precio sea quien sea ese siempre decía lo mismo. **Que poco me gusta el frio**. Pero teniendo varios lugares que escoger hasta yo tengo dudas como los Meteoros. Dudas hasta que el pueblo aparece en la conversación. Aunque este abandonado es un buen lugar que escoger. Las paredes de un castillo abandonado solo conseguiría acabar con varios de nosotros a lo largo del invierno. La cueva podría acabar tapado por la nieve. Y la verdad que no tengo idea de como sería un templo de la antigua fe, pero suena a palacete, ergo, mismo problema que el castillo. 
+
+Un pueblo abandonado son materiales útiles con los que pasar el invierno. Y cerca de los pueblos por muy abandonado que este, pueden encontrarse alimentos y materiales básicos. Me pregunto si con suerte tendrían una forja. Ver tan cabizbaja a Samara me tiene apenado. Quizá un florete sencillo le sea un arma cómoda a la mano. Como me descubra su padre me mata. Pero un detalle con ella se puede tener. 
+
+Debido a la situación de aislamiento del grupo la pasaría tratando de aprender de Saludina y Melibea sobre medicina. Bueno, la medicina que ellas sepan. Ya he aprendido un poco de todos menos Malaquias y la vieja. Si quiera podré aprender algo de la vieja? Es igual. Una cosa después de la otra. Primero primeros auxilios, luego crear pociones de energía y por ultimo invocar estrellas. 
