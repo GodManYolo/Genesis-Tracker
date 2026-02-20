@@ -61,3 +61,4 @@ A quien dejas de encontrarte poco después de dirigiros hacia el paso de montañ
 
  **Obtienes Rango I de Pelea y Rango II de Esgrima**  
 - Ganas automáticamente la dote _Golpe de Pomo (Esgrima)_
+# ❄**INVIERNO, 15 D.M.**
