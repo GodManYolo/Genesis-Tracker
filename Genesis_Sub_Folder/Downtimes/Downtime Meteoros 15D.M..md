@@ -57,7 +57,7 @@ La moral es baja, pero en una de las noches, justo conforme estabais preparándo
 
 Son una gente verdaderamente extraña. Pero a ti, algo que te llama la atención junto a esta fijación con los cielos es los colores de sus pelos: blancos platino a negros azabache, sin una sola muesca de pigmentación en ellos. Si su tez fuera más bruñida y tuviesen alas en las espalda, podrías decir que tus propias pesadillas vuelven a caminar la tierra. Es ese recuerdo que te lleva a brazos de Leandro, que desde primer momento estaba a la espera de que te acercases con la petición de ser entrenado. Por suerte, su arma no es muy distinta a la espada que cuelga de tu cintura, y pronto comienzas a entrenar junto a él, respondiendo "como si llevases toda tu vida blandiéndola, solo que tu cuerpo no recordase cómo hacerlo". Estos cumplidos hacen que la pobre Samara, que siempre os observa desde la distancia aunque intente disimularlo, pase más tiempo mirando al suelo que lo normal. Alguna de las mañanas, cuando te despiertas temprano a preparar una remesa de pan para el desayuno, la encuentras ejercitándose y blandiendo un palo como si se tratase del filo más poderoso de todo Freesia. Otras mañanas, te la encuentras sollozando en la oscuridad. 
 
-A quien dejas de encontrarte poco después de dirigiros hacia el paso de montaña que sirve de capital del Manto de las Estrellas, que se abre hacia el Nuevo Mundo, es a Esmeralda; "_hubo de encontrarse un buen hombre_", dice su madre entre risas, "_tendráis que haberte dado más prisa_", te dice tu padre con el mismo ademán despreocupado. Para ellos parece algo normal. Para ti no, y al ver hacia _la vieja_, crees que no eres el único. **No hay nada que hacerle ya. Quizás al volver a pasar.**
+A quien dejas de encontrarte poco después de dirigiros hacia el paso de montaña que sirve de capital del Manto de las Estrellas, que se abre hacia el Nuevo Mundo, es a Esmeralda; "_hubo de encontrarse un buen hombre_", dice su madre entre risas, "_tendráis que haberte dado más prisa_", te dice su padre con el mismo ademán despreocupado. Para ellos parece algo normal. Para ti no, y al ver hacia _la vieja_, crees que no eres el único. **No hay nada que hacerle ya. Quizás al volver a pasar.**
 
  **Obtienes Rango I de Pelea y Rango II de Esgrima**  
 - Ganas automáticamente la dote _Golpe de Pomo (Esgrima)_
@@ -111,4 +111,6 @@ Conforme os preparáis para partir, os dáis cuenta de que Saludina no se encuen
 
 # Resumen del año
 **Por este año consigues +1PP (TOTAL: 11)**
-**Adicionalmente obtienes Rango II en Alquimia, Rango I de Monta, Rango I en Orientación, Rango I y II en Pelea, Rango I en Esquiva, Rango II en Reflejos y Rango II y III en Esgrima.** :LiCoins: Te ganas 229 pelas currando en Mazorrial haciendo un total de 310. 
+**Adicionalmente obtienes Rango II en Alquimia, Rango I de Monta, Rango I en Orientación, Rango I y II en Pelea, Rango I en Esquiva, Rango II en Reflejos y Rango II y III en Esgrima.** 
+- Ganas automáticamente la dote _Golpe de Pomo (Esgrima)_
+:LiCoins: Te ganas 229 pelas currando en Mazorrial haciendo un total de 310. 
