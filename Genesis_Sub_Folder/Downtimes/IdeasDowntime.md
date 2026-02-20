@@ -1,3 +1,4 @@
+# 
 ## Travesía Ferrán
 - Pasar trabajando para Ramos durante 4 años.
 - El año 1 y 2 centrarse exclusivamente en la cocina.
