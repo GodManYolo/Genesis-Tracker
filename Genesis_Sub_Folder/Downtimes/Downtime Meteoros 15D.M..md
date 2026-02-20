@@ -111,6 +111,6 @@ Conforme os preparáis para partir, os dáis cuenta de que Saludina no se encuen
 
 # Resumen del año
 **Por este año consigues +1PP (TOTAL: 11)**
-**Adicionalmente obtienes Rango II en Alquimia, Rango I de Monta, Rango I en Orientación, Rango I y II en Pelea, Rango I en Esquiva, Rango II en Reflejos y Rango II y III en Esgrima.** 
+**Adicionalmente obtienes Rango I y II en Pelea, Rango I de Monta, Rango I en Esquiva, Rango I en Orientación, Rango II en Reflejos, Rango II y III en Esgrima y Rango II en Alquimia.** 
 - Ganas automáticamente la dote _Golpe de Pomo (Esgrima)_
 :LiCoins: Te ganas 229 pelas currando en Mazorrial haciendo un total de 310. 
