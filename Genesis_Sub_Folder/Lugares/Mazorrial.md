@@ -6,5 +6,5 @@ Se encuentra ya bañando la Bahía de Cristal:
 
 
 ## Eventos acontecidos
-Primavera 15 DM: La banda de piratas a la ordenes del Pirata Patrack se encuentra estacionada con la intención de viajar a unas islas solamente avistadas por el Héroe Lewis, en mitad del Mar de la Ceniza ([[Downtime Meteoros 1|source]])
+Primavera 15 DM: La banda de piratas a la ordenes del Pirata Patrack se encuentra estacionada con la intención de viajar a unas islas solamente avistadas por el Héroe Lewis, en mitad del Mar de la Ceniza ([[Downtime Meteoros 15D.M.|source]])
 ## Información adicional de interés
