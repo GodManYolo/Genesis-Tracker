@@ -104,7 +104,7 @@ Sin embargo, las certezas son pocas. Quienes son abusados por los Veteranos, cal
 
 ❗❗No tenéis información alguna sobre personas dentro de Aguasrápidas. ⠀
 ##### 🟨**LOS ~~CUATRO~~ ~~TRES~~ DOS DEL VENIDERO**
-###### ❗❗ **Atila** 
+###### ❗❗ **Atila** ( Vitu )
 Atila está mas allá del mundo conocido.
 ###### **Fabio** ( Jasko ):   
 Ojalá aún existiese la vieja fe. No por poder encontrar una explicación de tu infortunio en lo divino, en un destino que ha decidido que debes de perderlo TODO una y otra vez. No. **Ojalá aún existiese la vieja fe para poder maldecir a lo que sea que toma las decisiones en este mundo.** Das lo mejor de ti, una y otra vez, para que luego venga algo y te lo arrebate... ¿Para qué intentar nada siquiera? 
