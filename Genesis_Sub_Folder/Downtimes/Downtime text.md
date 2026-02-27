@@ -101,3 +101,5 @@ Hace frio, y la voz de Juan Precio sea quien sea ese siempre decía lo mismo. **
 Un pueblo abandonado son materiales útiles con los que pasar el invierno. Y cerca de los pueblos por muy abandonado que este, pueden encontrarse alimentos y materiales básicos. Me pregunto si con suerte tendrían una forja. Ver tan cabizbaja a Samara me tiene apenado. Quizá un florete sencillo le sea un arma cómoda a la mano. Como me descubra su padre me mata. Pero un detalle con ella se puede tener. 
 
 Debido a la situación de aislamiento del grupo la pasaría tratando de aprender de Saludina y Melibea sobre medicina. Bueno, la medicina que ellas sepan. Ya he aprendido un poco de todos menos Malaquias y la vieja. Si quiera podré aprender algo de la vieja? Es igual. Una cosa después de la otra. Primero primeros auxilios, luego crear pociones de energía y por ultimo invocar estrellas. 
+## [[Downtime Meteoros 16D.M.|Primavera 16 DM.]]
+¿Es esto un sueño? Hace poco ya vimos el cambio tan repentino de condiciones y ahora no queda ni un alma en pena en el establecimiento. Pero... puedo hacer algo? Puedo buscar en la ciudad, pero no parece que me tengan mucho aprecio.
