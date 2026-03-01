@@ -107,3 +107,7 @@ Debido a la situación de aislamiento del grupo la pasaría tratando de aprender
 La verdad que solo se me ocurre entrar en la ciudad y tratar de encontrar a alguien. Parece que por mucho que quiera aprender a ser el mejor cocinero, juntar todas las comidas que encuentre en platos nuevos el destino me lo impide con este va y ven de sucesos. 
 
 Y la Ley. Si no me equivoco me atacaron con eso hace no mucho. Ley, Anima y Ficción. El anima siempre he sentido que era demasiado natural, pero eso puede ser debido a mis ojos. La Ley demasiado complicada pero impresionante lo que se puede lograr. Y la Ficción... intente entenderla cuando la vi mencionada en los libros de Luna pero sin duda no logre comprender ni un ápice de ella. Sin duda son fascinantes, pero a la vez da miedo pensar en el poder que te otorgan.
+## [[Downtime Meteoros 16D.M.|Verano 16 DM.]]
+Fuego, Ley. La tentación de lo que podría hacer con esos conocimientos.
+
+Pero 
