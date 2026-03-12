@@ -113,3 +113,5 @@ Fuego, Ley. La tentación de lo que podría hacer con esos conocimientos. La vel
 Ahora mismo soy un Meteoro. Soy cabezota como mi madre, por lo que abandonar la búsqueda de mis compañeros de viaje **nunca** esta dentro de mis intenciones. Y soy un bala perdida como mi padre. Toca ser más loco con los métodos de búsqueda de los meteoros. Tengo una espada, una capa oscura para la noche y la experiencia de tres meses rondando las calles en la penumbra. Algún susto puedo darle a alguien, reteniéndolo con un filo al cuello mientras hago las preguntas. Pero no dañaré a nadie que no lo amerite. 
 
 Descarto casi de inmediato que esten trabajando para alguien. Deben hallarse en algún lugar retenidos, y todo indica a los que se parecen al duo que nos atacó. 
+## [[Downtime Meteoros 16D.M.| Otoño16 DM.]]
+No parece que 
