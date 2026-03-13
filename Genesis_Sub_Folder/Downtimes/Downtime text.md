@@ -112,6 +112,8 @@ Fuego, Ley. La tentación de lo que podría hacer con esos conocimientos. La vel
 
 Ahora mismo soy un Meteoro. Soy cabezota como mi madre, por lo que abandonar la búsqueda de mis compañeros de viaje **nunca** esta dentro de mis intenciones. Y soy un bala perdida como mi padre. Toca ser más loco con los métodos de búsqueda de los meteoros. Tengo una espada, una capa oscura para la noche y la experiencia de tres meses rondando las calles en la penumbra. Algún susto puedo darle a alguien, reteniéndolo con un filo al cuello mientras hago las preguntas. Pero no dañaré a nadie que no lo amerite. 
 
-Descarto casi de inmediato que esten trabajando para alguien. Deben hallarse en algún lugar retenidos, y todo indica a los que se parecen al duo que nos atacó. 
+Descarto casi de inmediato que estén trabajando para alguien. Deben hallarse en algún lugar retenidos, y todo indica a los que se parecen al duo que nos atacó. 
 ## [[Downtime Meteoros 16D.M.| Otoño16 DM.]]
-No parece que 
+No parece que vaya tener mucho éxito en entrar a Liceo con mis métodos actuales. La primera idea que se me viene es entrar oculto entre una  comanda de personas portadas como las que vi hace poco. Pero, **¿qué haría una vez dentro despojado de toda posesión?** Ese plan no tiene futuro si quiero salvar a mis compañeros de viaje. 
+
+Hace ya demasiadas lunas de la ultima vez que los vi y extraño más de lo que me gustaría confesar. La cocina va a tener que esperar... o espera. El Liceo de la Ley, no era eso lo que me querían enseñar. Quizá pueda entrar como un estudiante y desde dentro buscar a los míos. Al final ese pequeño deseo de hacerme con el fuego en mis manos puede que 
