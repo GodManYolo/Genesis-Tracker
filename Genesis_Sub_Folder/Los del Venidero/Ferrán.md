@@ -1,4 +1,4 @@
-![[FerranChild.png]]
+![[FerranChild.png|135]]
 Ferrán, nacido en el año 2 DM, pertenece a la familia de los [[Artesanos]]. Es el segundo hijo de cuatro al cual se le espera un quinto. Nacido por la pareja de [[Ramiro]] y 
 
 ### Raza
