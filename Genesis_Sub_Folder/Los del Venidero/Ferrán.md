@@ -27,9 +27,9 @@ Ferrán, nacido en el año 2 DM, pertenece a la familia de los [[Artesanos]]. Es
 ### LOG
 Background: Intuición +3, Perspicacia +2, Forja +3
 Creation: *EXP [2] (+1) :LiChevronsRight: [3] (+1)*, Dureza [T], Cocina [T], Inmunidad 0 :LiChevronsRight: I, Proyección 0 :LiChevronsRight: I, 
-[[Downtime 1]]: *2 recetas de hasta complejidad IV (Falta anexo II)*
-[[Downtime 2]]: Percepción 0 :LiChevronsRight: I, Empatía 0 :LiChevronsRight: I, Calma 0 :LiChevronsRight: I, Perspicacia II :LiChevronsRight: III
-[[Downtime 3]]: Intuición III :LiChevronsRight: IV, Influencia 0 :LiChevronsRight: II, Empatía 0 :LiChevronsRight: I, Esgrima 0 :LiChevronsRight: I, Saber 0 :LiChevronsRight: I, Dote Saber (Economía)
-[[Downtime 4]]: *EXP [3] (+1) :LiChevronsRight: [4] (+1)*, Velocidad 0 :LiChevronsRight: I, Empatía I :LiChevronsRight: II, Etiqueta 0 :LiChevronsRight: I, Alquimia 0 :LiChevronsRight: I
-[[Downtime 5]]: *EST [2] :LiChevronsRight: [3]*, Investigación 0 :LiChevronsRight: I, Actuación 0 :LiChevronsRight: I, Etiqueta I :LiChevronsRight: II, Empatía II :LiChevronsRight: III
+[[Downtime 10 DM]]: *2 recetas de hasta complejidad IV (Falta anexo II)*
+[[Downtime 11 DM]]: Percepción 0 :LiChevronsRight: I, Empatía 0 :LiChevronsRight: I, Calma 0 :LiChevronsRight: I, Perspicacia II :LiChevronsRight: III
+[[Downtime 12 DM]]: Intuición III :LiChevronsRight: IV, Influencia 0 :LiChevronsRight: II, Empatía 0 :LiChevronsRight: I, Esgrima 0 :LiChevronsRight: I, Saber 0 :LiChevronsRight: I, Dote Saber (Economía)
+[[Downtime 13 DM]]: *EXP [3] (+1) :LiChevronsRight: [4] (+1)*, Velocidad 0 :LiChevronsRight: I, Empatía I :LiChevronsRight: II, Etiqueta 0 :LiChevronsRight: I, Alquimia 0 :LiChevronsRight: I
+[[Downtime 14 DM]]: *EST [2] :LiChevronsRight: [3]*, Investigación 0 :LiChevronsRight: I, Actuación 0 :LiChevronsRight: I, Etiqueta I :LiChevronsRight: II, Empatía II :LiChevronsRight: III
 [[Downtime Meteoros 15D.M.]]: Pelea 0 :LiChevronsRight: II, Monta 0 :LiChevronsRight: I, Esquiva 0 :LiChevronsRight: I, Orientación 0 :LiChevronsRight: I, Reflejos I :LiChevronsRight: II, Esgrima I :LiChevronsRight: III, Alquimia I :LiChevronsRight: II

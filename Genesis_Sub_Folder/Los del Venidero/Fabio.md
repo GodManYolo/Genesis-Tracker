@@ -30,9 +30,9 @@ Tu aguante máximo nunca puede ser inferior a tu valor de Resistencia, y siempre
 ### LOG
 Background: Pelea +2, Dureza +2, Esquiva +2, Percepción +1, Reflejos +1
 Creation: Mazas [T], Resistencia 0 :LiChevronsRight: I, Fuerza 0 :LiChevronsRight: I, Perspicacia 0 :LiChevronsRight: I, 
-[[Downtime 1]]: Armas de Hombro 0 :LiChevronsRight: I, Percepción 0 (+1) :LiChevronsRight: I (+1), Orientación 0 :LiChevronsRight: I, Etiqueta 0 :LiChevronsRight: I 
-[[Downtime 2]]: Fuerza I :LiChevronsRight: II, Resistencia I :LiChevronsRight: II, Intuición 0 :LiChevronsRight: I, Armas de Hombro I :LiChevronsRight: II 
-[[Downtime 3]]: *FIS [3] :LiChevronsRight: [4]*, Dote: *Sangre, Dolor y Lágrimas*,  Resistencia  II :LiChevronsRight: IV, Pelea 0 (+2) :LiChevronsRight: I (+2), Dureza 0 (+2) :LiChevronsRight: I (+2), Investigación 0 :LiChevronsRight: I, Empatía 0 :LiChevronsRight: I, Calma 0 :LiChevronsRight: I, Soldadesca 0 :LiChevronsRight: II 
-[[Downtime 4]]: Velocidad 0 :LiChevronsRight: I, Inmunidad 0 :LiChevronsRight: I, Supervivencia 0 :LiChevronsRight: I, Espectáculo 0 :LiChevronsRight: I, Aspecto 0 :LiChevronsRight: I
-[[Downtime 5]]: *EXP [2] (+1) :LiChevronsRight: [3] (+1)*, Inmunidad I :LiChevronsRight: II, Calma I :LiChevronsRight: II, Influencia 0 :LiChevronsRight: I, Soldadesca II :LiChevronsRight: III
-[[Downtime 6]]: *EST [2] :LiChevronsRight: [3]*, Monta 0 :LiChevronsRight: II, Sigilo 0 :LiChevronsRight: II, Influencia I :LiChevronsRight: II, Armas de Hombro II :LiChevronsRight: III, Soldadesca III :LiChevronsRight: IV
+[[Downtime 10 DM]]: Armas de Hombro 0 :LiChevronsRight: I, Percepción 0 (+1) :LiChevronsRight: I (+1), Orientación 0 :LiChevronsRight: I, Etiqueta 0 :LiChevronsRight: I 
+[[Downtime 11 DM]]: Fuerza I :LiChevronsRight: II, Resistencia I :LiChevronsRight: II, Intuición 0 :LiChevronsRight: I, Armas de Hombro I :LiChevronsRight: II 
+[[Downtime 12 DM]]: *FIS [3] :LiChevronsRight: [4]*, Dote: *Sangre, Dolor y Lágrimas*,  Resistencia  II :LiChevronsRight: IV, Pelea 0 (+2) :LiChevronsRight: I (+2), Dureza 0 (+2) :LiChevronsRight: I (+2), Investigación 0 :LiChevronsRight: I, Empatía 0 :LiChevronsRight: I, Calma 0 :LiChevronsRight: I, Soldadesca 0 :LiChevronsRight: II 
+[[Downtime 13 DM]]: Velocidad 0 :LiChevronsRight: I, Inmunidad 0 :LiChevronsRight: I, Supervivencia 0 :LiChevronsRight: I, Espectáculo 0 :LiChevronsRight: I, Aspecto 0 :LiChevronsRight: I
+[[Downtime 14 DM]]: *EXP [2] (+1) :LiChevronsRight: [3] (+1)*, Inmunidad I :LiChevronsRight: II, Calma I :LiChevronsRight: II, Influencia 0 :LiChevronsRight: I, Soldadesca II :LiChevronsRight: III
+[[Downtime 15 DM]]: *EST [2] :LiChevronsRight: [3]*, Monta 0 :LiChevronsRight: II, Sigilo 0 :LiChevronsRight: II, Influencia I :LiChevronsRight: II, Armas de Hombro II :LiChevronsRight: III, Soldadesca III :LiChevronsRight: IV

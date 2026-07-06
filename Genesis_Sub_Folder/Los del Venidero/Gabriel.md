@@ -27,11 +27,11 @@ Gabriel, nacido en el año 999 MM, pertenece a la familia de los [[]]. Es el ún
 ### LOG
 Background: Percepción +1, Empatía +1, Esoterismo +1
 Creation: Medicina [T], Pelea 0 :LiChevronsRight: I, Tiro 0 :LiChevronsRight: I, Esquiva 0 :LiChevronsRight: I, Investigación 0 :LiChevronsRight: I, Perspicacia 0 :LiChevronsRight: I, Actuación 0 :LiChevronsRight: I
-[[Downtime 1]]: Actuación I :LiChevronsRight: II, Perspicacia I :LiChevronsRight: II, Sigilo 0 :LiChevronsRight: I
-[[Downtime 2]]: *EST [2] :LiChevronsRight: [3]*, Intuición 0 :LiChevronsRight: I, Investigación I :LiChevronsRight: II, Calma 0 :LiChevronsRight: I, Etiqueta 0 :LiChevronsRight: I
-[[Downtime 3]]: Calma I :LiChevronsRight: II, Influencia 0 :LiChevronsRight: I, Aspecto 0 :LiChevronsRight: I, Saber 0 :LiChevronsRight: II, Dotes Saber (Derecho) y Saber (Política)
-[[Downtime 4]]: Sigilo I :LiChevronsRight: II, Perspicacia II :LiChevronsRight: III
-[[Downtime 5]]: Dureza 0 :LiChevronsRight: I, Actuación II :LiChevronsRight: III, Etiqueta I :LiChevronsRight: II, Influencia I :LiChevronsRight: II, Espectáculo 0 :LiChevronsRight: I, Esgrima 0 :LiChevronsRight: I, **Especialización (Estilete) 0 :LiChevronsRight: I**
-[[Downtime 6]]: *INS [2] :LiChevronsRight: [3]*, Esquiva I :LiChevronsRight: II , Tiro I :LiChevronsRight: II, Reflejos 0 :LiChevronsRight: I, Orientación 0 :LiChevronsRight: I
+[[Downtime 10 DM]]: Actuación I :LiChevronsRight: II, Perspicacia I :LiChevronsRight: II, Sigilo 0 :LiChevronsRight: I
+[[Downtime 11 DM]]: *EST [2] :LiChevronsRight: [3]*, Intuición 0 :LiChevronsRight: I, Investigación I :LiChevronsRight: II, Calma 0 :LiChevronsRight: I, Etiqueta 0 :LiChevronsRight: I
+[[Downtime 12 DM]]: Calma I :LiChevronsRight: II, Influencia 0 :LiChevronsRight: I, Aspecto 0 :LiChevronsRight: I, Saber 0 :LiChevronsRight: II, Dotes Saber (Derecho) y Saber (Política)
+[[Downtime 13 DM]]: Sigilo I :LiChevronsRight: II, Perspicacia II :LiChevronsRight: III
+[[Downtime 14 DM]]: Dureza 0 :LiChevronsRight: I, Actuación II :LiChevronsRight: III, Etiqueta I :LiChevronsRight: II, Influencia I :LiChevronsRight: II, Espectáculo 0 :LiChevronsRight: I, Esgrima 0 :LiChevronsRight: I, **Especialización (Estilete) 0 :LiChevronsRight: I**
+[[Downtime 15 DM]]: *INS [2] :LiChevronsRight: [3]*, Esquiva I :LiChevronsRight: II , Tiro I :LiChevronsRight: II, Reflejos 0 :LiChevronsRight: I, Orientación 0 :LiChevronsRight: I
 
 
