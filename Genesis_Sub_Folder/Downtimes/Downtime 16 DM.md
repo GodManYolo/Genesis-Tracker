@@ -1,5 +1,4 @@
 #  🔥🌊 **OPERACIÓN RIADA**
-    
 *Maldito seas, Gabriel*. A tu alrededor, cada sonido parece un explosión aunque no sea más que una ventana cerrándose para protegerse del frío de la noche o una carcajada distante festejando una experiencia muy distinta a la que tú estás viviendo. **No te tembló el pulso cuando enfrentabas lanzas y espadas en el campo de batalla, pero aquí prácticamente tienes que usar tu diestra para que la zurda no desate un terremoto.** Una figura cruza sigilosa el umbral del arco que tanto vigilabas, y por reacción, casi abres fuego contra ella. 
 
 — "_Tres caballos en los establos. Nadie afuera, Fabio._" - susurra Decano mientras se libra de su capucha. "_¿Está el resto en posición?_" 
@@ -104,41 +103,52 @@ No tienes tiempo para despedir a tu camarada caído, siquiera para comprobar que
 
 [...]
 
-El fuego en las azoteas es fácil de ver en contraste con la noche. — "¡El este se ha apagado, Fabio!" — "¡La avenida hacia Matorrial sigue encendida!" A tus lados, tus compañeros comprueban toda posible salida, observando las antorchas encendidas tanto por otros de tus veinte en los cruces como de voluntarios que Gabriel ha conseguido reclutar dentro de la ciudad, de los que a alguno reconoces como empleado del Gremio de Mercaderes. Detrás vuestra, una ruidosa turba de vaporistas sigue vuestra guía, mientras desde las ventanas los pobladores de la ciudad os observan con temor y sorpresa. **Ves cómo sus ojos te perforan a ti... no, a Mía. Sus caras de sorpresa sólo se enaltecen más cuando ven las magulladuras en tu hermana, o sus piernas sangrantes. Cómo apenas puede tenerse en la silla gracias a la ayuda de tu brazo. Las mujeres que te observan parecen sorprendidas, pero los hombres... quizás vean en ella también una hermana, o incluso una hija.** Parecen buscar confirmación cruzando miradas con sus vecinos. Quizás Ramos tuviera razón. Si alguien conoce a la gente de _Aguasrápidas_, es él. [...] A la distancia, la última antorcha se apaga. _Han salido de la ciudad, bien._ Los Veteranos tardarán en responder a lo ocurrido, pero tú no puedes evitar quedarte en el lugar de los hechos. Lanzando la capucha sobre tu ya oscuro pelo, desciendes al nivel de la calle, poniendo tu espalda a la pared, esperando. No tardan mucho en darse cuenta de la proveniencia de esa turba que acaba ...
-    
-8. ... de abandonar la ciudad. _Espero que Fabio tenga razón_. Primero, un par de grupos de Veteranos. Apenas escuchas de qué están hablando en el cortijo: te gustaría acercarte, pero no son lo que te interesa. Cuando uno sale a toda prisa, sabes que tu amigo estaba en lo cierto: "_Umbrazo odia no tener control visual del terreno_". Tras él, te mueves contra la pared. — "_¿Sigue vivo ese?_", asomas la cabeza para ver cómo Umbrazo apunta al compañero de Fabio, tendido en el suelo. — "_No, capitán. Los nuestros tampoco._"  
-    Te fijas en cada uno de sus movimientos. Cómo se echa a caminar, casi haciendo círculos. Cómo se lleva la mano a la cara, bajando la cabeza. Cómo en un arrebato de furia, patea una de las bacinetas de sus hombres. El hecho de que se haya clavado en la pared como si fuera el virote de una balista hace que un escalofrío baje por tu espalda. — "_Tú. Toma un caballo. Cabalga hacia el Fugaz, lleva palabra de lo sucedido. Que los hombres vuelvan a la ciudad._" — "_Sí, capitán._" — "_Tú. Tu hermano es uno de los patrullas del este, ¿cierto? Junta a otros siete, únete a ellos. Levantad un puesto de paso, y fortificadlo bien. Reportáos cuatro veces al día a la ciudad._" — "_Así será, capitán._" — "_Tú. Manda a por el arquitecto, que se encuentre conmigo en el caserón en veinte minutos. Que vaya pensando en el camino sobre el plan de fortificación._" — "_Voy, capitán._" — "_**¡Y a los tres! Si dudáis, aunque sea de una maldita sombra... acero primero, preguntas después. Si sangre es lo que están dispuestos a dar, sangre darán.**_" ⠀⠀ ⠀ ⠀
-    
-9. # **— ![⏳](https://discordapp.com/assets/07910dea69f5d269.svg)EVENTOS**
-    
-    ###  ![‼️](https://discordapp.com/assets/b3f10771476ee28a.svg) Durante este año, debido a la volatilidad de la situación, los downtimes serán ESTACIONALES, más cortos de lo normal pero con la posibilidad de responder rápido a eventos y cambios.
-    
-    ⠀⠀
-    
-    ## ﻿ ![🌺](https://discordapp.com/assets/2ebc1a361f492b24.svg)﻿ **PRIMAVERA**
-    
-    ![⚔️](https://discordapp.com/assets/fa2c28d64be33d41.svg) ![🟩](https://discordapp.com/assets/f09787aa3424ea28.svg) _**LOS VETERANOS DE UMBRAZO:**_
-    
-    > - Han erigido una empalizada en el contorno de Aguasrápidas. También han bloqueado el Alabastro.
-    > - Han levantado un fuerte en el camino hacia Argenta y en el camino hacia Mazorrial.
-    > - Patrullan los límites del territorio de Aguasrápidas de forma más esporádica, pero en grupos más grandes.
-    > - Dirigen la mayor parte de sus esfuerzos a suprimir a la población de la ciudad. Parecen encontrarse en un estado de rebelión ligero.
-    
-    ![🛡️](https://discordapp.com/assets/51cc7794c9a923de.svg) ![🌊](https://discordapp.com/assets/9bc8db128fee9d56.svg) _**REBELDES DE AGUASRÁPIDAS**_
-    
-    > - Aunque la ciudad se encuentre en caos, Melchor y Díaz no encuentran la manera de romper el cerco sea para liberar a parte de su población o auxiliarles en su rebelión.
-    > - Bajo órdenes de Melchor, las haciendas más cercanas al Fugaz han sido abandonadas. La Vega Viva se ha convertido en vuestra nueva base de operaciones, abandonando incluso el campamento.
-    > - Díaz y Orión esperan a la recuperación de Mia, quien parece bastante afectada por su tiempo tras rejas. Es claramente una figura extremadamente popular entre vuestros aliados, quien al aprender que Fabio es su hermano, extienden su confianza hacia él.
-    > - Los túneles de los que abusaba Derión se han cerrado por completo. Por las noches, cabalga junto a Luna, quien gracias a sus ojos adaptados a la oscuridad otea la situación dentro de la ciudad para reportarla por la mañana.
-    
-    ![⚖️](https://discordapp.com/assets/b5138bdc32633d55.svg) ![⭐](https://discordapp.com/assets/6dcab1360be157d5.svg) _**LOS AZARES**_
-    
-    > - La primavera tarda casi una luna más de lo usual en entrar, pero viene extremadamente lluviosa. Los vaporistas dicen tener un plan "catastrófico" respecto a estas lluvias, pero necesitarán de las herramientas en el Latón.
-    > - Hay un constante débil viento desde el este.
-    
-    ⠀⠀ ⠀⠀
-    
-10. ![🟦](https://discordapp.com/assets/0ddb31be760ce2cd.svg) **FABIO** ( @Jasko ): Después de que te hayan puesto tantos nombres, es normal dudar sobre quién eres, o por qué has venido a este mundo. Cuando retornaste a la Vega Viva anunciando el triunfo de la Operación Riada, **las gentes parecían prestar más atención a tu hermana que a ti**. Su nombre acarrea un extraño peso que, aunque seas tú y los tuyos quienes retornan de una victoria heroica, es ella en la que los ojos se paran. **Incluso Díaz, vuestro general, parece prestarle más atención: conversando con él siempre intuiste que se culpa a si mismo de no poder huir con ella el día en el que Aguasrápidas cayó.** Sólo la hermana de Decano acude a ti, preguntando por su hermano. "_Si no hubiera sido por su valentía, muchos de los hombres que nos han seguido hasta aquí no hubieran llegado sanos y salvos._" ¡Gracias, Feliciano! Está claro que él tiene más dominio sobre las palabras que tú, que sirves para poco más que aporrear y tragar polvo. Mia se recupera pronto: "_Al principio, intentaban convencerme con palabras y promesas. Cuando les decía que no, que nunca les ayudaría a convencer a la gente de Aguasrápidas que dejar que les roben era lo mejor para ellos, empezaron los golpes. Y, cuando ni a mamporrazos me podían hacer cantar su cantinela, dejaron de molestarme de atizarme en sitios donde no lo pudieron bien y empezaron las palizas..._" cuenta su historia con certeza y con una determinación en sus ojos encomiable. Apenas se tiene de pie sin que su cara se torne en una mueca de dolor, pero ya está lista de nuevo para lanzar su guante a la batalla: de tal palo, tal astilla. Apenas te dirige la palabra, pero sabes que es como cuando aquella vez se había colado en el laboratorio de tu madre en pleno invierno para calentar vuestra habitación y acabó por romper uno de los decantadores de vuestra matriarca: sus miradas no te mienten. Su silencio es por vergüenza, por no tener que contradecirse y aceptar que actuó de mala manera hacia ti. Compartes ...
+El fuego en las azoteas es fácil de ver en contraste con la noche. 
+
+— "¡El este se ha apagado, Fabio!" 
+— "¡La avenida hacia Matorrial sigue encendida!" 
+
+A tus lados, tus compañeros comprueban toda posible salida, observando las antorchas encendidas tanto por otros de tus veinte en los cruces como de voluntarios que Gabriel ha conseguido reclutar dentro de la ciudad, de los que a alguno reconoces como empleado del Gremio de Mercaderes. Detrás vuestra, una ruidosa turba de vaporistas sigue vuestra guía, mientras desde las ventanas los pobladores de la ciudad os observan con temor y sorpresa. **Ves cómo sus ojos te perforan a ti... no, a Mía. Sus caras de sorpresa sólo se enaltecen más cuando ven las magulladuras en tu hermana, o sus piernas sangrantes. Cómo apenas puede tenerse en la silla gracias a la ayuda de tu brazo. Las mujeres que te observan parecen sorprendidas, pero los hombres... quizás vean en ella también una hermana, o incluso una hija.** Parecen buscar confirmación cruzando miradas con sus vecinos. Quizás Ramos tuviera razón. Si alguien conoce a la gente de _Aguasrápidas_, es él. 
+
+[...] 
+
+A la distancia, la última antorcha se apaga. _Han salido de la ciudad, bien._ Los Veteranos tardarán en responder a lo ocurrido, pero tú no puedes evitar quedarte en el lugar de los hechos. Lanzando la capucha sobre tu ya oscuro pelo, desciendes al nivel de la calle, poniendo tu espalda a la pared, esperando. No tardan mucho en darse cuenta de la proveniencia de esa turba que acaba de abandonar la ciudad. _Espero que Fabio tenga razón_. Primero, un par de grupos de Veteranos. Apenas escuchas de qué están hablando en el cortijo: te gustaría acercarte, pero no son lo que te interesa. Cuando uno sale a toda prisa, sabes que tu amigo estaba en lo cierto: "_Umbrazo odia no tener control visual del terreno_". Tras él, te mueves contra la pared. 
+
+— "_¿Sigue vivo ese?_", asomas la cabeza para ver cómo Umbrazo apunta al compañero de Fabio, tendido en el suelo. 
+— "_No, capitán. Los nuestros tampoco._"  
+T
+e fijas en cada uno de sus movimientos. Cómo se echa a caminar, casi haciendo círculos. Cómo se lleva la mano a la cara, bajando la cabeza. Cómo en un arrebato de furia, patea una de las bacinetas de sus hombres. El hecho de que se haya clavado en la pared como si fuera el virote de una balista hace que un escalofrío baje por tu espalda. 
+
+— "_Tú. Toma un caballo. Cabalga hacia el Fugaz, lleva palabra de lo sucedido. Que los hombres vuelvan a la ciudad._" 
+— "_Sí, capitán._" 
+— "_Tú. Tu hermano es uno de los patrullas del este, ¿cierto? Junta a otros siete, únete a ellos. Levantad un puesto de paso, y fortificadlo bien. Reportáos cuatro veces al día a la ciudad._" 
+— "_Así será, capitán._" 
+— "_Tú. Manda a por el arquitecto, que se encuentre conmigo en el caserón en veinte minutos. Que vaya pensando en el camino sobre el plan de fortificación._" 
+— "_Voy, capitán._" 
+— "_**¡Y a los tres! Si dudáis, aunque sea de una maldita sombra... acero primero, preguntas después. Si sangre es lo que están dispuestos a dar, sangre darán.**_" ⠀⠀ ⠀ ⠀
+
+## EVENTOS
+❗Durante este año, debido a la volatilidad de la situación, los downtimes serán ESTACIONALES, más cortos de lo normal pero con la posibilidad de responder rápido a eventos y cambios.
+
+### 🍀PRIMAVERA
+
+:LiSwords:🟩***LOS VETERANOS DE UMBRAZO***
+- Han erigido una empalizada en el contorno de Aguasrápidas. También han bloqueado el Alabastro.
+- Han levantado un fuerte en el camino hacia Argenta y en el camino hacia Mazorrial.
+- Patrullan los límites del territorio de Aguasrápidas de forma más esporádica, pero en grupos más grandes.
+- Dirigen la mayor parte de sus esfuerzos a suprimir a la población de la ciudad. Parecen encontrarse en un estado de rebelión ligero.
+
+:LiShieldHalf:🌊***REBELDES DE AGUASRÁPIDAS***
+- Aunque la ciudad se encuentre en caos, Melchor y Díaz no encuentran la manera de romper el cerco sea para liberar a parte de su población o auxiliarles en su rebelión.
+- Bajo órdenes de Melchor, las haciendas más cercanas al Fugaz han sido abandonadas. La Vega Viva se ha convertido en vuestra nueva base de operaciones, abandonando incluso el campamento.
+- Díaz y Orión esperan a la recuperación de Mia, quien parece bastante afectada por su tiempo tras rejas. Es claramente una figura extremadamente popular entre vuestros aliados, quien al aprender que Fabio es su hermano, extienden su confianza hacia él.
+- Los túneles de los que abusaba Derión se han cerrado por completo. Por las noches, cabalga junto a Luna, quien gracias a sus ojos adaptados a la oscuridad otea la situación dentro de la ciudad para reportarla por la mañana.
+
+⚖⭐***LOS AZARES***
+- La primavera tarda casi una luna más de lo usual en entrar, pero viene extremadamente lluviosa. Los vaporistas dicen tener un plan "catastrófico" respecto a estas lluvias, pero necesitarán de las herramientas en el Latón.
+- Hay un constante débil viento desde el este.  ⠀⠀ ⠀⠀
+###### **Fabio** ( Jasko ):   
+Después de que te hayan puesto tantos nombres, es normal dudar sobre quién eres, o por qué has venido a este mundo. Cuando retornaste a la Vega Viva anunciando el triunfo de la Operación Riada, **las gentes parecían prestar más atención a tu hermana que a ti**. Su nombre acarrea un extraño peso que, aunque seas tú y los tuyos quienes retornan de una victoria heroica, es ella en la que los ojos se paran. **Incluso Díaz, vuestro general, parece prestarle más atención: conversando con él siempre intuiste que se culpa a si mismo de no poder huir con ella el día en el que Aguasrápidas cayó.** Sólo la hermana de Decano acude a ti, preguntando por su hermano. "_Si no hubiera sido por su valentía, muchos de los hombres que nos han seguido hasta aquí no hubieran llegado sanos y salvos._" ¡Gracias, Feliciano! Está claro que él tiene más dominio sobre las palabras que tú, que sirves para poco más que aporrear y tragar polvo. Mia se recupera pronto: "_Al principio, intentaban convencerme con palabras y promesas. Cuando les decía que no, que nunca les ayudaría a convencer a la gente de Aguasrápidas que dejar que les roben era lo mejor para ellos, empezaron los golpes. Y, cuando ni a mamporrazos me podían hacer cantar su cantinela, dejaron de molestarme de atizarme en sitios donde no lo pudieron bien y empezaron las palizas..._" cuenta su historia con certeza y con una determinación en sus ojos encomiable. Apenas se tiene de pie sin que su cara se torne en una mueca de dolor, pero ya está lista de nuevo para lanzar su guante a la batalla: de tal palo, tal astilla. Apenas te dirige la palabra, pero sabes que es como cuando aquella vez se había colado en el laboratorio de tu madre en pleno invierno para calentar vuestra habitación y acabó por romper uno de los decantadores de vuestra matriarca: sus miradas no te mienten. Su silencio es por vergüenza, por no tener que contradecirse y aceptar que actuó de mala manera hacia ti. Compartes ...
     
 11. ... este sentimiento. Al fin y al cabo, de tal palo, tal astilla. Simplemente con un par de miradas de aceptación y una sonrisa o dos es suficiente; no hace falta una larga conversación y disculpas y todo ese paripé. Estáis del mismo lado de esta batalla, y ganarla es lo más importante. "¡Fabio, están haciendo algo raro!" vino Feliciano en la mañana antes del ataque a la nueva posición de los Veteranos a tu habitación, disrumpiendo tu sueño. Explicarle que si Gabriel confía en los vaporistas vosotros también podéis hacerlo fue fácil, pero una vez entraste al almacén y te los encontraste desmantelando vuestros rifles y metiéndoles limpiadores de hollín cañón arriba, te esremeciste como si te lo estuvieran haciendo a ti mismo, en un rifle distinto. **Casi pierdes también el talante, pero uno de ellos te explica que los nuevos _surcos_ le darán _rotación_ al _proyectil_ para mantener su _vector de movimiento_ mucho más _uniforme_...** "_En resumen, la bala va mejor a donde quieres a larga distancia_" interrumpe Miguel, preparado para probarlo. Antes de salir, se dedicó a hacer pruebas, pudiendo dar veracidad a que esta modificación es ventajosa, por lo menos para él. El resto soléis operar más cerca, pero su ojo es capaz de atinar a grandes distancias. Los vaporistas aseguran poder hacer cosas más interesantes con sus herramientas, pero les explicas que actualmente entrar y salir de la ciudad con libertad es imposible. Díaz tuvo ideas sobre un ataque a través del río para liberar el Latón, pero la zona al este de la ciudad no está bajo vuestro control. Gabriel estaba gestando uno de sus planes al respecto, por lo que mejor dejarlo en sus manos: ese territorio es más dado a sus pies que a los tuyos, aunque seas tú quien vistes el blasón de la ciudad. Los 19 y tu decidisteis no ponerle nombre a la operación. Simplemente, por la noche, junto a Derión y Luna como oteadores, partisteis a la distancia. La pericia de esta chica para ver en mitad de la noche os da la ...
     
