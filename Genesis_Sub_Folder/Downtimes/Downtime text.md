@@ -121,3 +121,4 @@ Hace ya demasiadas lunas de la ultima vez que los vi y extraño más de lo que m
 En caso de ser tutelado o poder entrar en el Liceo para aprender Ley **sentiría brotar un poder que ya es mío pero que esperaba dormido a que lo llamaran.** [Poder 3 - 5PP]
 
 ## [[Downtime Meteoros 17D.M.| Otoño17 DM.]]
+Ya estoy dentro, no debo olvidar mi cometido aqui dentro. 
