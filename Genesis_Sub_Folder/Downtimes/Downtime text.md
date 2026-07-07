@@ -123,4 +123,6 @@ En caso de ser tutelado o poder entrar en el Liceo para aprender Ley **sentiría
 ## [[Downtime Meteoros 17D.M.| Otoño17 DM.]]
 Ya estoy dentro y posiblemente de la manera mas extravagante que pudiese haber ocurrido. Pero no debo olvidar mi cometido aquí dentro. Le he prometido a Magno ser su prospecto de aprendiz, pero mi corazón reside en la salvación de los míos. Pero... solo acabo de entrar y la ley del mas fuerte parece ser la normal. Siquiera se a quien preguntar o el estatus necesario para acceder a esos lugares? 
 
-Toca jugar al juego del estudiante, y llevo años aprendiendo como absorver conocimientos rapidamente en los fogones. Y 
+Toca jugar al juego del estudiante, y llevo años aprendiendo como absorber conocimientos rápidamente en los fogones. Con la practica. La teoría esta bien pero hasta que no trate de hacer 30 o 40 veces un edicto que fui capaz de proyectar electricidad. Y van a ser otras 100 o 200 veces las necesarias para que me vean ascender poco a poco, pero eso el lo que lo hace divertido. Al principio unas chispas, luego un corrientazo y por ultimo un trueno capaz de penetrar muros.
+
+Pero primero, las emergencias. Y el malestar en el dormitorio es 
