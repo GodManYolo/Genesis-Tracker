@@ -119,3 +119,4 @@ No parece que vaya tener mucho éxito en entrar a Liceo con mis métodos actuale
 Hace ya demasiadas lunas de la ultima vez que los vi y extraño más de lo que me gustaría confesar. La cocina va a tener que esperar... o espera. El Liceo de la Ley, no era eso lo que me querían enseñar. Quizá pueda **entrar como un estudiante y desde dentro buscar a los míos.** Al final ese pequeño deseo de hacerme con el fuego en mis manos puede que sea el camino hacia el sol y no una distracción. 
 
 En caso de ser tutelado o poder entrar en el Liceo para aprender Ley **sentiría brotar un poder que ya es mío pero que esperaba dormido a que lo llamaran.** [Poder 3 - 5PP]
+
