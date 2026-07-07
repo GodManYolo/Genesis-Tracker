@@ -121,4 +121,6 @@ Hace ya demasiadas lunas de la ultima vez que los vi y extraño más de lo que m
 En caso de ser tutelado o poder entrar en el Liceo para aprender Ley **sentiría brotar un poder que ya es mío pero que esperaba dormido a que lo llamaran.** [Poder 3 - 5PP]
 
 ## [[Downtime Meteoros 17D.M.| Otoño17 DM.]]
-Ya estoy dentro, no debo olvidar mi cometido aqui dentro. 
+Ya estoy dentro y posiblemente de la manera mas extravagante que pudiese haber ocurrido. Pero no debo olvidar mi cometido aquí dentro. Le he prometido a Magno ser su prospecto de aprendiz, pero mi corazón reside en la salvación de los míos. Pero... solo acabo de entrar y la ley del mas fuerte parece ser la normal. Siquiera se a quien preguntar o el estatus necesario para acceder a esos lugares? 
+
+Toca jugar al juego del estudiante, y llevo años aprendiendo como absorver conocimientos rapidamente en los fogones. Y 
