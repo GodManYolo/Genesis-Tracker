@@ -119,8 +119,13 @@ No parece que vaya tener mucho éxito en entrar a Liceo con mis métodos actuale
 Hace ya demasiadas lunas de la ultima vez que los vi y extraño más de lo que me gustaría confesar. La cocina va a tener que esperar... o espera. El Liceo de la Ley, no era eso lo que me querían enseñar. Quizá pueda **entrar como un estudiante y desde dentro buscar a los míos.** Al final ese pequeño deseo de hacerme con el fuego en mis manos puede que sea el camino hacia el sol y no una distracción. 
 
 En caso de ser tutelado o poder entrar en el Liceo para aprender Ley **sentiría brotar un poder que ya es mío pero que esperaba dormido a que lo llamaran.** [Poder 3 - 5PP]
+## [[Downtime Meteoros 16D.M.| Invierno16 DM.]]
+La ciudad esconde algo que cada vez veo más oscuro, y no son solo las gentes esclavizadas ni la cúpula de Ley. Aquí hay moro en la costa y gato suelto, y Magno irradia como la opción más adecuada , sensata y segura para atravesar estás tinieblas. 
 
-## [[Downtime Meteoros 17D.M.| Otoño17 DM.]]
+No sé si seré el mejor estudiante y de eso quiero avisarle a Magno. Pero sin duda soy el más entusiasta y dedicado que puede haber encontrado para enseñarle de casi cero... O cero, él decidirá. Pero he de ser rápido, presto y enfocado si quiero salvar a mis compañeros de travesia. 
+
+Debo entrar al Liceo, si quiero volver a verlos necesito, ansio y es menester que acceda. Espero encontrar de nuevo a mis acompañantes... Diría que hecho en falta más de lo que esperaba a Samara.
+## [[Downtime Meteoros 17D.M.| Primavera 17 DM.]]
 Ya estoy dentro y posiblemente de la manera mas extravagante que pudiese haber ocurrido. Pero no debo olvidar mi cometido aquí dentro. Le he prometido a Magno ser su prospecto de aprendiz, pero mi corazón reside en la salvación de los míos. Aunque... solo acabo de entrar, con cero pistas de donde buscar, escasos contactos y gente en la que confiar y la ley del mas fuerte parece ser el pan de cada día hasta para ir al baño. Siquiera se el estatus necesario para acceder a los lugares donde tienen a los Meteoros? 
 
 **Toca jugar al juego del estudiante**, y llevo años aprendiendo como absorber conocimientos rápidamente en los fogones. Con la practica. La teoría esta bien pero hasta que no trate de hacer 30 o 40 veces un edicto que fui capaz de proyectar electricidad. Y van a ser otras 100 o 200 veces las necesarias para que me vean ascender poco a poco, pero eso el lo que lo hace divertido. Al principio unas chispas, luego un corrientazo y por ultimo un trueno capaz de penetrar muros. No se si seré capaz de aprender otros pero la idea de poder cocinar con fuego y crear el acero para mis ollas parece no suenan nada, pero que nada mal.
@@ -128,3 +133,11 @@ Ya estoy dentro y posiblemente de la manera mas extravagante que pudiese haber o
 Pero primero, las emergencias. Y **el malestar en el dormitorio es Ante Omnia.** Que puedo hacer con **Lieve**? Ha llegado con la intención de ser una solitaria ave en una jaula de oro? O hay algo más que no se atreva a contar? Quizá si le estiro de la lengua en su habitación pueda apaciguar las aguas enbravecidas que nos ciernen. Se que **Estara** será mas fácil de lidiar una vez que Lieve este en la misma pagina que el resto, o eso espero. Y me da la sensación que a Jován solo le hace falta un tiempo para soltarse y sentirse tan cómodo como el resto, o el que más. 
 
 Por ultimo... Que es de mi preciadísimo corcel de impecables dientes marfil, porte imponente y tupida melena Jordán? Si me lo tengo que traer a patadas, cabezazos y mordiscos así será.
+## [[Downtime Meteoros 17D.M.| Verano 17 DM.]]
+Con la llegada del verano es turno de revisar mi planes escritos al principio del año:
+
+1. Dormitorio
+
+2. Mis estudios
+3. Los Meteoros
+4. Jordan
