@@ -137,7 +137,9 @@ Por ultimo... Que es de mi preciadísimo corcel de impecables dientes marfil, po
 Con la llegada del verano es turno de revisar mi planes escritos al principio del año:
 
 1. Dormitorio
-
+Lieve sigue sin hacerse a la vida en grupo, Estara la siento como una hermana a este punto y Jovan parece sentirse mas en un entorno seguro.
 2. Mis estudios
+Si quiero que Jordan pueda ingresar al Liceo he de entrar entre los 50 mejores del Liceo. Apuntar a las estrellas, sin duda es el *modus operanti* de este lugar (Creo que está bien escrito, preguntar a Magno o Jovan). Mi mejor baza es Lieve, por mucho que me cueste sacarle tres palabras seguidas. 
 3. Los Meteoros
 4. Jordan
+Vease apartado *Mis estudios*
