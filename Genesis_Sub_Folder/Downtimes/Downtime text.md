@@ -139,7 +139,9 @@ Con la llegada del verano es turno de revisar mi planes escritos al principio de
 1. Dormitorio
 Lieve sigue sin hacerse a la vida en grupo, Estara la siento como una hermana a este punto y Jovan parece sentirse mas en un entorno seguro.
 2. Mis estudios
-Si quiero que Jordan pueda ingresar al Liceo he de entrar entre los 50 mejores del Liceo. Apuntar a las estrellas, sin duda es el *modus operanti* de este lugar (Creo que está bien escrito, preguntar a Magno o Jovan). Mi mejor baza es Lieve, por mucho que me cueste sacarle tres palabras seguidas. 
+Si quiero que Jordan pueda ingresar al Liceo he de entrar entre los 50 mejores del Liceo. Apuntar a las estrellas, sin duda es el *modus operanti* de este lugar (Creo que está bien escrito, preguntar a Magno o Jovan). Mi mejor baza es Lieve, por mucho que me cueste sacarle tres palabras seguidas. Este plan puede ser una locura, pero podría tratar de convencerla para que nos diese clases de repaso a Estara y a mi y con ello matar dos pajaros de un tiro. (Convencer a Lieve de darnos clases (Espero que un argumento convincente sea suficiente y si no la retaré a un duelo a cambio de ser su chef personal en mi estancia) y convencer a Estara sin que quiera matarme por proponerselo (VOY A MORIR, POR LAS ANIMAS QUE ESTOY HACIENDO)).
+La inscripción de ley parece ser extremadamente interesante para Jovan (Revisar temario)
 3. Los Meteoros
+Debo de ser consciente de que el tiempo que emplee buscandolos es tiempo que no tengo para poder meter un pie mas adentro de estas instalaciones, las preguntas no me llevan a ningun lado. No debo olvidarlos pero debo concentrarme en el resto para poder llegar a ellos. (No los olvidaré, pero relego su recuerdo a estas notas por el momento.)
 4. Jordan
 Vease apartado *Mis estudios*
