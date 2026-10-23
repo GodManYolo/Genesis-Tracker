@@ -33,3 +33,4 @@ Creation: *EXP [2] (+1) :LiChevronsRight: [3] (+1)*, Dureza [T], Cocina [T], Inm
 [[Downtime 13 DM]]: *EXP [3] (+1) :LiChevronsRight: [4] (+1)*, Velocidad 0 :LiChevronsRight: I, Empatía I :LiChevronsRight: II, Etiqueta 0 :LiChevronsRight: I, Alquimia 0 :LiChevronsRight: I
 [[Downtime 14 DM]]: *EST [2] :LiChevronsRight: [3]*, Investigación 0 :LiChevronsRight: I, Actuación 0 :LiChevronsRight: I, Etiqueta I :LiChevronsRight: II, Empatía II :LiChevronsRight: III
 [[Downtime Meteoros 15D.M.]]: Pelea 0 :LiChevronsRight: II, Monta 0 :LiChevronsRight: I, Esquiva 0 :LiChevronsRight: I, Orientación 0 :LiChevronsRight: I, Reflejos I :LiChevronsRight: II, Esgrima I :LiChevronsRight: III, Alquimia I :LiChevronsRight: II
+[[Downtime Meteoros 16D.M.]]: **

@@ -66,5 +66,3 @@ Y así es como desembocas tu primer edicto. No sabes muy bien qué ha hecho, per
 # Resumen del año
 **Por este año consigues +1PP (TOTAL: 6)**
 Nota: como Ley no está desarrollado, no te puedo dar nada aún. La intención es que puedas crear dos edictos de Rango I con Electricidad como base, pero es algo que veremos en el futuro. Esto será común durante tus siguientes tiempobajos: una vez esté todo definido, veremos qué acaba por aprender Ferrán durante su tiempo en el liceo.
-
-+1 PP (Total: 6)
