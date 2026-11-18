@@ -149,6 +149,8 @@ Vease apartado *Mis estudios*
 ## [[Downtime Meteoros 17D.M.| Otoño 17 DM.]]
 He llegado. No esperaba que fuera a través de Jordán, pero **he llegado**. Y se bien como he de actuar ahora. Con **CALMA**. Debo hacerme uno más en el lugar... sin investigar, aun no. Primero a desencajarle la mandíbula a Lieve y que de verdad no sea capaz de articular palabras.
 
-Si tanto Jován como Lieve muestran tal entusiasmo por algo ha de ser meritorio. Además 
+Si tanto Jován como Lieve muestran tal entusiasmo por algo ha de ser meritorio. Además, hace bastante que no practico con la forja... Y los recien llegados son el último aliciente que necesitaba, si es que Lieve no fuese ya motivo imperioso de continuar. Y realmente soy 
+
+Ese reclutamiento... no pretendo ser participe de una guerra la cual enfrenta a un país y nombres que no conozco con la gente que está usando de mano gratuita a mi gente. Espero que no le moleste mucho a Estara, pero no quiero entrar en el juego de dos entidades superiores donde solo pierden sus súbditos.
 
  
