@@ -146,3 +146,9 @@ La inscripción de ley parece ser extremadamente interesante para Jovan (Revisar
 Debo de ser consciente de que el tiempo que emplee buscandolos es tiempo que no tengo para poder meter un pie mas adentro de estas instalaciones, las preguntas no me llevan a ningun lado. No debo olvidarlos pero debo concentrarme en el resto para poder llegar a ellos. (No los olvidaré, pero relego su recuerdo a estas notas por el momento.)
 4. Jordan
 Vease apartado *Mis estudios*
+## [[Downtime Meteoros 17D.M.| Otoño 17 DM.]]
+He llegado. No esperaba que fuera a través de Jordán, pero **he llegado**. Y se bien como he de actuar ahora. Con **CALMA**. Debo hacerme uno más en el lugar... sin investigar, aun no. Primero a desencajarle la mandíbula a Lieve y que de verdad no sea capaz de articular palabras.
+
+Si tanto Jován como Lieve muestran tal entusiasmo por algo ha de ser meritorio. Además 
+
+ 
